@@ -1,0 +1,5 @@
+{
+  "name": "Japanese Time Trainer",
+  "description": "An interactive learning tool for students to practice telling time in Japanese (Hiragana), featuring a dynamic SVG clock and randomized exercises.",
+  "requestFramePermissions": []
+}
